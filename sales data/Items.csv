@@ -19,7 +19,7 @@ Wrap vegan;Savory;Food;Cold;;8
 Salad;Savory;Food;Cold;Eggs;7
 Coffee;Sweet;Drink;Hot;;2
 Latte coffee;Sweet;Drink;Hot;Dairy;3
-LANE coffee;Sweet;Drink;Hot;Dairy, Nuts;4
+LANE Coffee;Sweet;Drink;Hot;Dairy, Nuts;4
 Caramel macchiato;Sweet;Drink;Hot;Dairy;4
 Cappucino;Sweet;Drink;Hot;Dairy;3
 Iced tea;Sweet;Drink;Cold;;3
@@ -29,3 +29,5 @@ Iced coffee;Sweet;Drink;Cold;;3
 Chaï latte;Sweet;Drink;Hot;Dairy;4
 Mineral water;Sweet;Drink / Food;Cold;;1
 Foccacia;Savory;Food;Hot / Cold;eggs, Dairy;6
+Cake;Sweet;Food;Cold;eggs;4
+Sandwich;Savory;Food;Cold;eggs;4
