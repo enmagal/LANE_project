@@ -1,31 +1,31 @@
-Tableau 1
+Tableau 1;;;;;
 Produit;Sweet / Savory;Drink / Food;Hot / Cold;Allergènes;Price
-pancake vegan;Sweet;Food;Hot;;$4,00
-pancake;Sweet;Food;Hot;Dairy, Eggs;$4,00
-nutella panini;Sweet;Food;Hot;Nuts;$3,00
-waffles;Sweet;Food;Hot;Dairy, Eggs;$3,00
-cinnamon roll;Sweet;Food;Cold;Nuts, Eggs, Dairy;$4,00
-brownie;Sweet;Food;Cold;Nuts, Eggs;$3,00
-muffin vegan;Sweet;Food;Cold;;$2,00
-muffin;Sweet;Food;Cold;Dairy, Eggs;$2,00
-white chocolate cookie;Sweet;Food;Cold;Eggs;$1,00
-tiramisu;Sweet;Food;Cold;Dairy, Eggs;$4,00
-mozzarella pesto panini;Savory;Food;Hot;Dairy;$5,00
-grilled cheese vegan;Savory;Food;Hot;;$5,00
-grilled cheese;Savory;Food;Hot;Dairy;$5,00
-mac & cheese;Savory;Food;Hot;Dairy;$6,00
-avocado toast;Savory;Food;Cold;;$8,00
-wrap vegan;Savory;Food;Cold;;$8,00
-salad;Savory;Food;Cold;Eggs;$7,00
-coffee;Sweet;Drink;Hot;;$2,00
-latte coffee;Sweet;Drink;Hot;Dairy;$3,00
-LANE coffee;Sweet;Drink;Hot;Dairy, Nuts;$4,00
-caramel macchiato;Sweet;Drink;Hot;Dairy;$4,00
-cappucino;Sweet;Drink;Hot;Dairy;$3,00
-iced tea;Sweet;Drink;Cold;;$3,00
-apple juice;Sweet;Drink;Cold;;$2,00
-tea;Sweet;Drink;Hot;;$2,00
-iced coffee;Sweet;Drink;Cold;;$3,00
-chaï latte;Sweet;Drink;Hot;Dairy;$4,00
-Mineral water;Sweet;Drink / Food;Cold;;$1,00
-Foccacia;Savory;Food;Hot / Cold;eggs, Dairy;$6,00
+Pancake vegan;Sweet;Food;Hot;;4
+Pancake;Sweet;Food;Hot;Dairy, Eggs;4
+Nutella panini;Sweet;Food;Hot;Nuts;3
+Waffles;Sweet;Food;Hot;Dairy, Eggs;3
+Cinnamon roll;Sweet;Food;Cold;Nuts, Eggs, Dairy;4
+Brownie;Sweet;Food;Cold;Nuts, Eggs;3
+Muffin vegan;Sweet;Food;Cold;;2
+Muffin;Sweet;Food;Cold;Dairy, Eggs;2
+White chocolate cookie;Sweet;Food;Cold;Eggs;1
+Tiramisu;Sweet;Food;Cold;Dairy, Eggs;4
+Mozzarella pesto panini;Savory;Food;Hot;Dairy;5
+Grilled cheese vegan;Savory;Food;Hot;;5
+Grilled cheese;Savory;Food;Hot;Dairy;5
+Mac & cheese;Savory;Food;Hot;Dairy;6
+Avocado toast;Savory;Food;Cold;;8
+Wrap vegan;Savory;Food;Cold;;8
+Salad;Savory;Food;Cold;Eggs;7
+Coffee;Sweet;Drink;Hot;;2
+Latte coffee;Sweet;Drink;Hot;Dairy;3
+LANE coffee;Sweet;Drink;Hot;Dairy, Nuts;4
+Caramel macchiato;Sweet;Drink;Hot;Dairy;4
+Cappucino;Sweet;Drink;Hot;Dairy;3
+Iced tea;Sweet;Drink;Cold;;3
+Apple juice;Sweet;Drink;Cold;;2
+Tea;Sweet;Drink;Hot;;2
+Iced coffee;Sweet;Drink;Cold;;3
+Chaï latte;Sweet;Drink;Hot;Dairy;4
+Mineral water;Sweet;Drink / Food;Cold;;1
+Foccacia;Savory;Food;Hot / Cold;eggs, Dairy;6
